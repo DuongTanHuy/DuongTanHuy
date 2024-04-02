@@ -5,11 +5,11 @@
   <img alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/>
 <div/>
 
-- 🔭 I’m currently working on **AI Dev software company**
+🔭 I’m currently working on **AI Dev software company**
 
-- 🌱 I’m currently learning **ReactJs, NextJs, Electron, React Native**
+🌱 I’m currently learning **ReactJs, NextJs, Electron, React Native**
 
-- 📫 How to reach me **huy236236@gmail.com**
+📫 How to reach me **huy236236@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
