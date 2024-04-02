@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm HuyDev</h1>
 <h3 align="center">A passionate frontend developer from VN</h3>
 
+<div align="center">
+  <img alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/>
+<div/>
+
 - 🔭 I’m currently working on **AI Dev software company**
 
 - 🌱 I’m currently learning **ReactJs, NextJs, Electron, React Native**
