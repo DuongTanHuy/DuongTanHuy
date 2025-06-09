@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **AI Dev software company**
 
-🌱 I currently have knowledge of **ReactJs, NextJs, React Native, Express, NestJs, Java**
+🌱 I currently have knowledge of **ReactJs, NextJs, React Native, Nodejs, Express, NestJs, Java**
 
 📫 How to reach me **huy236236@gmail.com**
 
