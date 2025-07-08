@@ -9,7 +9,7 @@
 
 🌱 I currently have knowledge of **ReactJs, NextJs, React Native, Nodejs, Express, NestJs, Java, Electron**
 
-📫 How to reach me **huy236236@gmail.com**
+📫 How to reach me **huy1005.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
