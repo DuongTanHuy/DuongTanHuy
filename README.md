@@ -7,12 +7,13 @@
 
 🔭 I’m currently working on **AI Dev software company**
 
-🌱 I currently have knowledge of **ReactJs, NextJs, Flutter, Nodejs, Express, NestJs, Electron**
+🌱 I currently have knowledge of **ReactJs, NextJs, Flutter, Nodejs, Express, NestJs, Spring boot, Electron**
 
 📫 How to reach me **huy1005.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  huy1005.dev@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
